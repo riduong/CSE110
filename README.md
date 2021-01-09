@@ -28,9 +28,3 @@ My top three programming language
 Things I need to finish today
 - [x] Finish my Individual Engineering Statement
 - [ ] Finish Lab 1
-
-
-
-
-
-
