@@ -1,3 +1,4 @@
+#Intro
 ## Introduction
 
 Hi, my name is **Richard Duong** and I am a ~~3rd~~ 4th year majoring in *Cognitive Science with specilization in Machine Learning.* My spirit animal is a potato.
