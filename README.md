@@ -1,6 +1,6 @@
 ## Introduction
 
-Hi, my name is **Richard Duong** and I am a ~3rd~ 4th year majoring in *Cognitive Science with specilization in Machine Learning.* My spirit animal is a potato.
+Hi, my name is **Richard Duong** and I am a ~~3rd~~ 4th year majoring in *Cognitive Science with specilization in Machine Learning.* My spirit animal is a potato.
 
 ![Potatoes](https://user-images.githubusercontent.com/50217877/104081931-e4ed0a80-51e6-11eb-9ca7-321913bb4129.jpeg)
 
