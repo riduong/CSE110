@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+All other core Markdown constructs in GitHub Flavored Markdown (Links to an external site.)
+the core constructs being Headings, Styling text, Quoting text, Quoting code, Links, Section links, Relative links, Lists, and Task lists
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/riduong/CSE110/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is **Richard Duong** and I am a ~3rd~ 4th year majoring in *Cognitive Science with specilization in Machine Learning.* My spirit animal is a potato.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Potatoes](https://user-images.githubusercontent.com/50217877/104081931-e4ed0a80-51e6-11eb-9ca7-321913bb4129.jpeg)
 
-### Markdown
+As Oscar Wilde once said:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Be yourself; everyone else is already taken.
 
-```markdown
-Syntax highlighted code block
+# How to Print in Java
+Printing Hello World!:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+System.out.println("Hello World!")
+```
+My [GitHub Page](https://github.com/riduong).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you want to know how to print in Java
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/riduong/CSE110/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
